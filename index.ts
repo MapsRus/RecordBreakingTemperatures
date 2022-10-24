@@ -22,7 +22,7 @@ import
 }
 from 'three/examples/jsm/loaders/FontLoader.js';
 const apiOptions = {
-    "apiKey": 'AIzaSyDTXbPV5vjBAwjN83TF0Wr6afPiusxzxGE',
+    "apiKey": '',
 };
 
 import { Easing, Tween, update } from "@tweenjs/tween.js";
