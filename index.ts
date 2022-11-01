@@ -87,7 +87,7 @@ function initWebGLOverlayView(map)
 
     
     const createObjects = () => {
-        const matLite = new THREE.MeshBasicMaterial(
+        const matLite = new  THREE.MeshBasicMaterial(
         {
             color: 0xFF0000,
             opacity: 1,
