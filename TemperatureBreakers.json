@@ -1,87 +1,546 @@
 [
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Syamsudin Noor",
-		"Country" : "Indonesia",
+		"City" : "Istres",
+		"Country" : "France",
 		"CurrentTemperature" : "24.0 C",
-		"PastTemperatures" : "22.3    19.0     1.0(1994)  (1979)  (1980)",
+		"PastTemperatures" : "22.2    24.2    44.2(2015)  (1984)  (2019)",
+		"TemperatureDifference" : "+1.8",
+		"CityCountry" : "Istres,France",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 43.51512000000008,
+		"lon" : 4.986170000000072,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 4.98617, 43.51512 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Salon",
+		"Country" : "France",
+		"CurrentTemperature" : "24.0 C",
+		"PastTemperatures" : "22.0    23.3    43.3(2014)  (2013)  (2019)",
+		"TemperatureDifference" : "+2.0",
+		"CityCountry" : "Salon,France",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 43.64229000000006,
+		"lon" : 5.094780000000071,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 5.09478, 43.64229 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Gioia Del Colle",
+		"Country" : "Italy",
+		"CurrentTemperature" : "28.0 C",
+		"PastTemperatures" : "23.2    25.2    43.2(2008)  (2015)  (2007)",
+		"TemperatureDifference" : "+4.8",
+		"CityCountry" : "Gioia Del Colle,Italy",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 40.80009000000007,
+		"lon" : 16.927970000000073,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 16.92797, 40.80009 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Hohenfels",
+		"Country" : "Germany",
+		"CurrentTemperature" : "17.4 C",
+		"PastTemperatures" : "15.7    27.1    39.0(1970)  (2011)  (1983)",
 		"TemperatureDifference" : "+1.7",
-		"CityCountry" : "Syamsudin Noor,Indonesia",
-		"SnapshotTime" : "2022:10:28 15:47",
-		"lat" : -3.4210599999999545,
-		"lon" : 114.78273000000002,
+		"CityCountry" : "Hohenfels,Germany",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 49.20377000000008,
+		"lon" : 11.847990000000038,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ 114.78273, -3.42106 ]
+			"coordinates" : [ 11.84799, 49.20377 ]
 		}
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Chesterfield Inlet",
-		"Country" : "Canada",
-		"CurrentTemperature" : "29.0 C",
-		"PastTemperatures" : "2.0    13.0    30.0(2005)  (2015)  (2018)",
-		"TemperatureDifference" : "+27.0",
-		"CityCountry" : "Chesterfield Inlet,Canada",
-		"SnapshotTime" : "2022:10:28 15:47",
-		"lat" : 63.34651400000007,
-		"lon" : -90.73682699999995,
+		"City" : "Port Harcourt",
+		"Country" : "Nigeria",
+		"CurrentTemperature" : "33.0 C",
+		"PastTemperatures" : "31.7    36.7    40.5(1999)  (2016)  (2005)",
+		"TemperatureDifference" : "+1.3",
+		"CityCountry" : "Port Harcourt,Nigeria",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 4.813940000000059,
+		"lon" : 7.043690000000026,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ -90.736827, 63.346514 ]
+			"coordinates" : [ 7.04369, 4.81394 ]
 		}
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Bandara",
-		"Country" : "Indonesia",
-		"CurrentTemperature" : "22.0 C",
-		"PastTemperatures" : "21.6    14.3    12.0(2020)  (2004)  (1979)",
-		"TemperatureDifference" : "+0.3",
-		"CityCountry" : "Bandara,Indonesia",
-		"SnapshotTime" : "2022:10:28 15:47",
-		"lat" : -0.48413999999996804,
-		"lon" : 117.15422000000001,
+		"City" : "Forli",
+		"Country" : "Italy",
+		"CurrentTemperature" : "23.0 C",
+		"PastTemperatures" : "22.0    28.5    43.0(1973)  (2004)  (2017)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Forli,Italy",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 44.22822000000008,
+		"lon" : 12.04209000000003,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ 117.15422, -0.48414 ]
+			"coordinates" : [ 12.04209, 44.22822 ]
 		}
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Koebenhavn / Roskilde",
+		"City" : "Nimes / Garons",
+		"Country" : "France",
+		"CurrentTemperature" : "23.0 C",
+		"PastTemperatures" : "22.0    24.8    44.1(1994)  (2013)  (2019)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Nimes / Garons,France",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 43.76833000000005,
+		"lon" : 4.428330000000074,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 4.42833, 43.76833 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Mostar",
+		"Country" : "Serbia and Montenegro",
+		"CurrentTemperature" : "28.0 C",
+		"PastTemperatures" : "25.0    26.0    43.0(1999)  (2004)  (2007)",
+		"TemperatureDifference" : "+3.0",
+		"CityCountry" : "Mostar,Serbia and Montenegro",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 42.796154744000034,
+		"lon" : 19.25209946500007,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 19.252099465, 42.796154744 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Baden Wurttemberg, Neuostheim",
+		"Country" : "Germany",
+		"CurrentTemperature" : "18.0 C",
+		"PastTemperatures" : "17.0    23.0    40.0(2005)  (2020)  (2019)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Baden Wurttemberg, Neuostheim,Germany",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 49.47763000000003,
+		"lon" : 8.51660000000004,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 8.5166, 49.47763 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Sarajevo / Butmir",
+		"Country" : "Serbia and Montenegro",
+		"CurrentTemperature" : "23.0 C",
+		"PastTemperatures" : "21.6    24.0    40.0(1990)  (2008)  (2007)",
+		"TemperatureDifference" : "+1.4",
+		"CityCountry" : "Sarajevo / Butmir,Serbia and Montenegro",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 43.81965000000008,
+		"lon" : 18.333030000000065,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 18.33303, 43.81965 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Dobbiaco",
+		"Country" : "Italy",
+		"CurrentTemperature" : "15.0 C",
+		"PastTemperatures" : "14.1    17.0    35.0(1989)  (1976)  (2021)",
+		"TemperatureDifference" : "+0.9",
+		"CityCountry" : "Dobbiaco,Italy",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 46.73514000000006,
+		"lon" : 12.224110000000053,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 12.22411, 46.73514 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Stord / Soerstokken",
+		"Country" : "Norway",
+		"CurrentTemperature" : "14.0 C",
+		"PastTemperatures" : "13.0    17.0   537.2(2011)  (2018)  (9999)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Stord / Soerstokken,Norway",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 59.79192000000006,
+		"lon" : 5.340850000000046,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 5.34085, 59.79192 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Reus / Aeropuerto",
+		"Country" : "Spain",
+		"CurrentTemperature" : "25.0 C",
+		"PastTemperatures" : "24.0    30.2    40.0(2020)  (1985)  (2018)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Reus / Aeropuerto,Spain",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 41.14680000000004,
+		"lon" : 1.1533500000000458,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 1.15335, 41.1468 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Zeltweg",
+		"Country" : "Austria",
+		"CurrentTemperature" : "18.0 C",
+		"PastTemperatures" : "17.2    28.0    36.7(2003)  (1981)  (2013)",
+		"TemperatureDifference" : "+0.8",
+		"CityCountry" : "Zeltweg,Austria",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 47.18850000000003,
+		"lon" : 14.751500000000021,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 14.7515, 47.1885 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Chambery / Aix-Les-Bains",
+		"Country" : "France",
+		"CurrentTemperature" : "20.0 C",
+		"PastTemperatures" : "19.2    23.2    39.0(1989)  (1997)  (2003)",
+		"TemperatureDifference" : "+0.8",
+		"CityCountry" : "Chambery / Aix-Les-Bains,France",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 45.68850000000003,
+		"lon" : 5.91560000000004,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 5.9156, 45.6885 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Ibiza / Es Codola",
+		"Country" : "Spain",
+		"CurrentTemperature" : "25.0 C",
+		"PastTemperatures" : "24.2    29.0    39.7(2021)  (1994)  (2006)",
+		"TemperatureDifference" : "+0.8",
+		"CityCountry" : "Ibiza / Es Codola,Spain",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 38.87286000000006,
+		"lon" : 1.3731200000000285,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 1.37312, 38.87286 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Crotone",
+		"Country" : "Italy",
+		"CurrentTemperature" : "26.0 C",
+		"PastTemperatures" : "25.3    25.3    43.0(1990)  (1990)  (1982)",
+		"TemperatureDifference" : "+0.6",
+		"CityCountry" : "Crotone,Italy",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 39.08124000000004,
+		"lon" : 17.122910000000047,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 17.12291, 39.08124 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Montpellier",
+		"Country" : "France",
+		"CurrentTemperature" : "23.0 C",
+		"PastTemperatures" : "22.3    25.2    43.5(2015)  (2015)  (2019)",
+		"TemperatureDifference" : "+0.6",
+		"CityCountry" : "Montpellier,France",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 43.61086000000006,
+		"lon" : 3.876130000000046,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.87613, 43.61086 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Setif",
+		"Country" : "Algeria",
+		"CurrentTemperature" : "25.0 C",
+		"PastTemperatures" : "24.3    26.3    43.0(1987)  (2006)  (2009)",
+		"TemperatureDifference" : "+0.6",
+		"CityCountry" : "Setif,Algeria",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 36.18975000000006,
+		"lon" : 5.4101100000000315,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 5.41011, 36.18975 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Honningsvag / Valan",
+		"Country" : "Norway",
+		"CurrentTemperature" : "8.0 C",
+		"PastTemperatures" : "7.2    12.0    28.0(2015)  (2006)  (2018)",
+		"TemperatureDifference" : "+0.8",
+		"CityCountry" : "Honningsvag / Valan,Norway",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 71.00715998100003,
+		"lon" : 25.97944674400003,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 25.979446744, 71.007159981 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Odense / Beldringe",
 		"Country" : "Denmark",
-		"CurrentTemperature" : "16.0 C",
-		"PastTemperatures" : "15.2    22.5    33.1(2014)  (2018)  (1991)",
-		"TemperatureDifference" : "+0.8",
-		"CityCountry" : "Koebenhavn / Roskilde,Denmark",
-		"SnapshotTime" : "2022:10:28 15:47",
-		"lat" : 55.67275998000008,
-		"lon" : 12.475289046000057,
+		"CurrentTemperature" : "15.0 C",
+		"PastTemperatures" : "14.8    18.0    35.8(2007)  (1979)  (2006)",
+		"TemperatureDifference" : "+0.1",
+		"CityCountry" : "Odense / Beldringe,Denmark",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 55.47118000000006,
+		"lon" : 10.330730000000074,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ 12.475289046, 55.67275998 ]
+			"coordinates" : [ 10.33073, 55.47118 ]
 		}
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Learmonth Airport",
-		"Country" : "Australia",
-		"CurrentTemperature" : "13.0 C",
-		"PastTemperatures" : "12.2     8.1     3.5(2007)  (2009)  (2017)",
-		"TemperatureDifference" : "+0.8",
-		"CityCountry" : "Learmonth Airport,Australia",
-		"SnapshotTime" : "2022:10:28 15:47",
-		"lat" : -22.23987999999997,
-		"lon" : 114.09437000000003,
+		"City" : "Bologna / Borgo Panigale",
+		"Country" : "Italy",
+		"CurrentTemperature" : "21.0 C",
+		"PastTemperatures" : "20.6    24.0    41.1(2004)  (2002)  (1998)",
+		"TemperatureDifference" : "+0.3",
+		"CityCountry" : "Bologna / Borgo Panigale,Italy",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 44.519570000000044,
+		"lon" : 11.26338000000004,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ 114.09437, -22.23988 ]
+			"coordinates" : [ 11.26338, 44.51957 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Bizerte",
+		"Country" : "Tunisia",
+		"CurrentTemperature" : "28.0 C",
+		"PastTemperatures" : "27.8    31.3    48.8(1985)  (2016)  (2021)",
+		"TemperatureDifference" : "+0.1",
+		"CityCountry" : "Bizerte,Tunisia",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 37.27123000000006,
+		"lon" : 9.872750000000053,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 9.87275, 37.27123 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Grants, NM",
+		"Country" : "United States",
+		"CurrentTemperature" : "-6.5 C",
+		"PastTemperatures" : "-7.7   -25.6   -30.6(2004)  (2006)  (2011)",
+		"TemperatureDifference" : "+1.2",
+		"CityCountry" : "Grants, NM,United States",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 35.150630000000035,
+		"lon" : -107.84987999999998,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -107.84988, 35.15063 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Concepcion",
+		"Country" : "Bolivia",
+		"CurrentTemperature" : "14.0 C",
+		"PastTemperatures" : "13.0    10.0     2.0(2003)  (1980)  (1981)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Concepcion,Bolivia",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : -16.132789999999943,
+		"lon" : -62.024449999999945,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -62.02445, -16.13279 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Marseille / Marignane",
+		"Country" : "France",
+		"CurrentTemperature" : "23.0 C",
+		"PastTemperatures" : "22.2    24.3    40.0(1999)  (1984)  (1983)",
+		"TemperatureDifference" : "+0.8",
+		"CityCountry" : "Marseille / Marignane,France",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 43.435560000000066,
+		"lon" : 5.213610000000074,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 5.21361, 43.43556 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Manta",
+		"Country" : "Ecuador",
+		"CurrentTemperature" : "21.0 C",
+		"PastTemperatures" : "20.0    10.0     9.0(1977)  (1980)  (1986)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Manta,Ecuador",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : -0.981089999999938,
+		"lon" : -80.69668999999999,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -80.69669, -0.98109 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Santa Rosalia, B. C. S.",
+		"Country" : "Mexico",
+		"CurrentTemperature" : "12.0 C",
+		"PastTemperatures" : "11.0     4.0    -1.0(1979)  (2018)  (2020)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Santa Rosalia, B. C. S.,Mexico",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 27.337060000000065,
+		"lon" : -112.26923999999997,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -112.26924, 27.33706 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Curitiba Aeroporto",
+		"Country" : "Brazil",
+		"CurrentTemperature" : "10.0 C",
+		"PastTemperatures" : "9.0     4.3    -5.2(1974)  (1970)  (1963)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Curitiba Aeroporto,Brazil",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : -25.528479999999945,
+		"lon" : -49.175779999999975,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -49.17578, -25.52848 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Kirkenes Lufthavn",
+		"Country" : "Norway",
+		"CurrentTemperature" : "-1.0 C",
+		"PastTemperatures" : "-17.7    2013   -41.2(29.9000)  (MONTHH)  ()",
+		"TemperatureDifference" : "+16.7",
+		"CityCountry" : "Kirkenes Lufthavn,Norway",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 69.72342000000003,
+		"lon" : 29.88990000000007,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 29.8899, 69.72342 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Bonilla Island",
+		"Country" : "Canada",
+		"CurrentTemperature" : "3.4 C",
+		"PastTemperatures" : "3.0    -8.6   -17.2(2002)  (2006)  (2003)",
+		"TemperatureDifference" : "+0.4",
+		"CityCountry" : "Bonilla Island,Canada",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 53.488530000000026,
+		"lon" : -130.61016999999998,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -130.61017, 53.48853 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Palma De Mallorca / Son San Juan",
+		"Country" : "Spain",
+		"CurrentTemperature" : "26.0 C",
+		"PastTemperatures" : "25.7    27.2    41.3(2014)  (2014)  (2001)",
+		"TemperatureDifference" : "+0.3",
+		"CityCountry" : "Palma De Mallorca / Son San Juan,Spain",
+		"SnapshotTime" : "2022:11:01 07:14",
+		"lat" : 39.547540000000026,
+		"lon" : 2.730290000000025,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 2.73029, 39.54754 ]
 		}
 	}
 ]
