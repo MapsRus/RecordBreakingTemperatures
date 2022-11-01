@@ -91,7 +91,11 @@ function initWebGLOverlayView(map)
         {
             color: 0xFF0000,
             opacity: 1,
+<<<<<<< HEAD
 	
+=======
+	    envMap: "refelection",
+>>>>>>> 4417cc2506c32a1c7a48f4ce13f7357fb4dde507
             side: THREE.DoubleSide
         });
 
