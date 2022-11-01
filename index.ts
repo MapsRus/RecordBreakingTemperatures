@@ -91,6 +91,7 @@ function initWebGLOverlayView(map)
         {
             color: 0xFF0000,
             opacity: 1,
+	    envMap: "refelection",
             side: THREE.DoubleSide
         });
 
