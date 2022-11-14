@@ -1,12 +1,10 @@
 [
 	{
 		"json_featuretype" : "TemperatureBreakers",
-<<<<<<< HEAD
 		"City" : "Nausori",
 		"Country" : "Fiji",
 		"CurrentTemperature" : "21.0 C",
 		"PastTemperatures" : "19.3    15.0    10.0(2001)  (1977)  (1980)",
-=======
 		"City" : "Chillan",
 		"Country" : "Chile",
 		"CurrentTemperature" : "33.0 C",
@@ -28,7 +26,6 @@
 		"Country" : "Australia",
 		"CurrentTemperature" : "16.0 C",
 		"PastTemperatures" : "14.3    13.2     2.1(1955)  (1969)  (1946)",
->>>>>>> ae3730dd4122ba650a9efdefc7ecad5adaa167c0
 		"TemperatureDifference" : "+1.7",
 		"CityCountry" : "Nausori,Fiji",
 		"SnapshotTime" : "2022:11:14 10:52",
@@ -39,7 +36,7 @@
 			"type" : "Point",
 			"coordinates" : [ 178.53413, -18.03082 ]
 		}
-<<<<<<< HEAD
+
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
@@ -91,7 +88,6 @@
 			"type" : "Point",
 			"coordinates" : [ 29.8899, 69.72342 ]
 		}
-=======
->>>>>>> ae3730dd4122ba650a9efdefc7ecad5adaa167c0
+
 	}
 ]
