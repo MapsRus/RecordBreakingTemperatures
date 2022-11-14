@@ -5,38 +5,16 @@
 		"Country" : "Fiji",
 		"CurrentTemperature" : "21.0 C",
 		"PastTemperatures" : "19.3    15.0    10.0(2001)  (1977)  (1980)",
-		"City" : "Chillan",
-		"Country" : "Chile",
-		"CurrentTemperature" : "33.0 C",
-		"PastTemperatures" : "30.0    36.0    41.5(2010)  (2016)  (2017)",
-		"TemperatureDifference" : "+3.0",
-		"CityCountry" : "Chillan,Chile",
-		"SnapshotTime" : "2022:11:01 15:10",
-		"lat" : -36.60889999999995,
-		"lon" : -72.10251999999997,
-		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ -72.10252, -36.6089 ]
-		}
-	},
-	{
-		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Port Hedland Pardoo",
-		"Country" : "Australia",
-		"CurrentTemperature" : "16.0 C",
-		"PastTemperatures" : "14.3    13.2     2.1(1955)  (1969)  (1946)",
 		"TemperatureDifference" : "+1.7",
 		"CityCountry" : "Nausori,Fiji",
-		"SnapshotTime" : "2022:11:14 10:52",
+		"SnapshotTime" : "2022:11:14 10:58",
 		"lat" : -18.03081999999995,
 		"lon" : 178.53413000000012,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
 			"coordinates" : [ 178.53413, -18.03082 ]
-		}
-
+		} 
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
@@ -46,7 +24,7 @@
 		"PastTemperatures" : "22.3    17.2    15.0(1994)  (1999)  (1976)",
 		"TemperatureDifference" : "+1.7",
 		"CityCountry" : "Kota Kinabalu,Malaysia",
-		"SnapshotTime" : "2022:11:14 10:52",
+		"SnapshotTime" : "2022:11:14 10:58",
 		"lat" : 5.981390000000033,
 		"lon" : 116.07423000000006,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
@@ -63,7 +41,7 @@
 		"PastTemperatures" : "-9.3   -23.2   -35.1(2018)  (1985)  (1989)",
 		"TemperatureDifference" : "+1.0",
 		"CityCountry" : "Alturas, CA,United States",
-		"SnapshotTime" : "2022:11:14 10:52",
+		"SnapshotTime" : "2022:11:14 10:58",
 		"lat" : 41.49432000000007,
 		"lon" : -120.54260999999997,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
@@ -80,7 +58,7 @@
 		"PastTemperatures" : "-17.7    2013   -41.2(29.9000)  (MONTHH)  ()",
 		"TemperatureDifference" : "+11.7",
 		"CityCountry" : "Kirkenes Lufthavn,Norway",
-		"SnapshotTime" : "2022:11:14 10:52",
+		"SnapshotTime" : "2022:11:14 10:58",
 		"lat" : 69.72342000000003,
 		"lon" : 29.88990000000007,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
@@ -88,6 +66,5 @@
 			"type" : "Point",
 			"coordinates" : [ 29.8899, 69.72342 ]
 		}
-
 	}
 ]
