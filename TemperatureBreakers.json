@@ -1,20 +1,20 @@
 [
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Nausori",
-		"Country" : "Fiji",
-		"CurrentTemperature" : "21.0 C",
-		"PastTemperatures" : "19.3    15.0    10.0(2001)  (1977)  (1980)",
-		"TemperatureDifference" : "+1.7",
-		"CityCountry" : "Nausori,Fiji",
-		"SnapshotTime" : "2022:11:14 10:58",
-		"lat" : -18.03081999999995,
-		"lon" : 178.53413000000012,
+		"City" : "Bintulu",
+		"Country" : "Malaysia",
+		"CurrentTemperature" : "23.0 C",
+		"PastTemperatures" : "21.6    15.0    15.0(2010)  (1979)  (1979)",
+		"TemperatureDifference" : "+1.4",
+		"CityCountry" : "Bintulu,Malaysia",
+		"SnapshotTime" : "2022:11:14 12:58",
+		"lat" : 3.1959100000000262,
+		"lon" : 113.10193000000004,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ 178.53413, -18.03082 ]
-		} 
+			"coordinates" : [ 113.10193, 3.19591 ]
+		}
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
@@ -24,7 +24,7 @@
 		"PastTemperatures" : "22.3    17.2    15.0(1994)  (1999)  (1976)",
 		"TemperatureDifference" : "+1.7",
 		"CityCountry" : "Kota Kinabalu,Malaysia",
-		"SnapshotTime" : "2022:11:14 10:58",
+		"SnapshotTime" : "2022:11:14 12:58",
 		"lat" : 5.981390000000033,
 		"lon" : 116.07423000000006,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
@@ -35,19 +35,36 @@
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Alturas, CA",
-		"Country" : "United States",
-		"CurrentTemperature" : "-8.3 C",
-		"PastTemperatures" : "-9.3   -23.2   -35.1(2018)  (1985)  (1989)",
-		"TemperatureDifference" : "+1.0",
-		"CityCountry" : "Alturas, CA,United States",
-		"SnapshotTime" : "2022:11:14 10:58",
-		"lat" : 41.49432000000007,
-		"lon" : -120.54260999999997,
+		"City" : "Miri",
+		"Country" : "Malaysia",
+		"CurrentTemperature" : "23.0 C",
+		"PastTemperatures" : "22.2    20.6    10.7(1959)  (1964)  (1994)",
+		"TemperatureDifference" : "+0.8",
+		"CityCountry" : "Miri,Malaysia",
+		"SnapshotTime" : "2022:11:14 12:58",
+		"lat" : 4.42539000000005,
+		"lon" : 114.00737000000004,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ -120.54261, 41.49432 ]
+			"coordinates" : [ 114.00737, 4.42539 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Key West, FL",
+		"Country" : "United States",
+		"CurrentTemperature" : "32.8 C",
+		"PastTemperatures" : "32.2    35.6    40.0(2007)  (2020)  (2017)",
+		"TemperatureDifference" : "+0.5",
+		"CityCountry" : "Key West, FL,United States",
+		"SnapshotTime" : "2022:11:14 12:58",
+		"lat" : 24.554500000000075,
+		"lon" : -81.80022999999994,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -81.80023, 24.5545 ]
 		}
 	},
 	{
@@ -58,13 +75,30 @@
 		"PastTemperatures" : "-17.7    2013   -41.2(29.9000)  (MONTHH)  ()",
 		"TemperatureDifference" : "+11.7",
 		"CityCountry" : "Kirkenes Lufthavn,Norway",
-		"SnapshotTime" : "2022:11:14 10:58",
+		"SnapshotTime" : "2022:11:14 12:58",
 		"lat" : 69.72342000000003,
 		"lon" : 29.88990000000007,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
 			"coordinates" : [ 29.8899, 69.72342 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Beaver Creek Airport",
+		"Country" : "Canada",
+		"CurrentTemperature" : "1.0 C",
+		"PastTemperatures" : "-2.0     7.0    30.2(2013)  (2010)  (1947)",
+		"TemperatureDifference" : "+3.0",
+		"CityCountry" : "Beaver Creek Airport,Canada",
+		"SnapshotTime" : "2022:11:14 12:58",
+		"lat" : 62.41089000000005,
+		"lon" : -140.86909999999995,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -140.8691, 62.41089 ]
 		}
 	}
 ]
