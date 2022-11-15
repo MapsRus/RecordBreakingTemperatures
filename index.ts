@@ -11,7 +11,7 @@ import { FontLoader } from 'three/examples/jsm/loaders/FontLoader.js';
 import { Easing, Tween, update } from "@tweenjs/tween.js";
 
 const apiOptions = {
-    "apiKey": 'AIzaSyDTXbPV5vjBAwjN83TF0Wr6afPiusxzxGE',
+    "apiKey": '',
 };
 
 let map: google.maps.Map;
