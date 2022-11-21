@@ -1,30 +1,64 @@
 [
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Bintulu",
-		"Country" : "Malaysia",
-		"CurrentTemperature" : "23.0 C",
-		"PastTemperatures" : "21.6    15.0    15.0(2010)  (1979)  (1979)",
-		"TemperatureDifference" : "+1.4",
-		"CityCountry" : "Bintulu,Malaysia",
-		"SnapshotTime" : "2022:11:14 12:58",
-		"lat" : 3.1959100000000262,
-		"lon" : 113.10193000000004,
+		"City" : "McAllen, TX",
+		"Country" : "United States",
+		"CurrentTemperature" : "7.2 C",
+		"PastTemperatures" : "5.6   0    -7.7(1991)  (1992)  (1989)",
+		"TemperatureDifference" : "+1.6",
+		"CityCountry" : "McAllen, TX,United States",
+		"SnapshotTime" : "2022:11:21 08:45",
+		"lat" : 26.207700000000045,
+		"lon" : -98.22930999999994,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ 113.10193, 3.19591 ]
+			"coordinates" : [ -98.22931, 26.2077 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Saint George, UT",
+		"Country" : "United States",
+		"CurrentTemperature" : "0.0 C",
+		"PastTemperatures" : "-1.2    -8.0   -18.0(1993)  (2006)  (2013)",
+		"TemperatureDifference" : "+1.2",
+		"CityCountry" : "Saint George, UT,United States",
+		"SnapshotTime" : "2022:11:21 08:45",
+		"lat" : 37.109770000000026,
+		"lon" : -113.58329999999995,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -113.5833, 37.10977 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Rockport, TX",
+		"Country" : "United States",
+		"CurrentTemperature" : "6.7 C",
+		"PastTemperatures" : "5.6   0    -7.2(2000)  (2011)  (2021)",
+		"TemperatureDifference" : "+1.1",
+		"CityCountry" : "Rockport, TX,United States",
+		"SnapshotTime" : "2022:11:21 08:45",
+		"lat" : 28.027270000000044,
+		"lon" : -97.05483999999996,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -97.05484, 28.02727 ]
 		}
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
 		"City" : "Kota Kinabalu",
 		"Country" : "Malaysia",
-		"CurrentTemperature" : "24.0 C",
-		"PastTemperatures" : "22.3    17.2    15.0(1994)  (1999)  (1976)",
-		"TemperatureDifference" : "+1.7",
+		"CurrentTemperature" : "22.0 C",
+		"PastTemperatures" : "21.2    17.2    15.0(2004)  (1999)  (1976)",
+		"TemperatureDifference" : "+0.8",
 		"CityCountry" : "Kota Kinabalu,Malaysia",
-		"SnapshotTime" : "2022:11:14 12:58",
+		"SnapshotTime" : "2022:11:21 08:45",
 		"lat" : 5.981390000000033,
 		"lon" : 116.07423000000006,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
@@ -35,47 +69,30 @@
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Miri",
-		"Country" : "Malaysia",
-		"CurrentTemperature" : "23.0 C",
-		"PastTemperatures" : "22.2    20.6    10.7(1959)  (1964)  (1994)",
-		"TemperatureDifference" : "+0.8",
-		"CityCountry" : "Miri,Malaysia",
-		"SnapshotTime" : "2022:11:14 12:58",
-		"lat" : 4.42539000000005,
-		"lon" : 114.00737000000004,
+		"City" : "Launceston Airport",
+		"Country" : "Australia",
+		"CurrentTemperature" : "4.0 C",
+		"PastTemperatures" : "2.7    -3.0    -5.5(1952)  (1977)  (1994)",
+		"TemperatureDifference" : "+1.3",
+		"CityCountry" : "Launceston Airport,Australia",
+		"SnapshotTime" : "2022:11:21 08:45",
+		"lat" : -41.54364999999996,
+		"lon" : 147.20558000000005,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ 114.00737, 4.42539 ]
-		}
-	},
-	{
-		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Key West, FL",
-		"Country" : "United States",
-		"CurrentTemperature" : "32.8 C",
-		"PastTemperatures" : "32.2    35.6    40.0(2007)  (2020)  (2017)",
-		"TemperatureDifference" : "+0.5",
-		"CityCountry" : "Key West, FL,United States",
-		"SnapshotTime" : "2022:11:14 12:58",
-		"lat" : 24.554500000000075,
-		"lon" : -81.80022999999994,
-		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ -81.80023, 24.5545 ]
+			"coordinates" : [ 147.20558, -41.54365 ]
 		}
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
 		"City" : "Kirkenes Lufthavn",
 		"Country" : "Norway",
-		"CurrentTemperature" : "-6.0 C",
+		"CurrentTemperature" : "-10.0 C",
 		"PastTemperatures" : "-17.7    2013   -41.2(29.9000)  (MONTHH)  ()",
-		"TemperatureDifference" : "+11.7",
+		"TemperatureDifference" : "+7.7",
 		"CityCountry" : "Kirkenes Lufthavn,Norway",
-		"SnapshotTime" : "2022:11:14 12:58",
+		"SnapshotTime" : "2022:11:21 08:45",
 		"lat" : 69.72342000000003,
 		"lon" : 29.88990000000007,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
@@ -86,19 +103,36 @@
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Beaver Creek Airport",
+		"City" : "Paulatuk Airport",
 		"Country" : "Canada",
-		"CurrentTemperature" : "1.0 C",
-		"PastTemperatures" : "-2.0     7.0    30.2(2013)  (2010)  (1947)",
-		"TemperatureDifference" : "+3.0",
-		"CityCountry" : "Beaver Creek Airport,Canada",
-		"SnapshotTime" : "2022:11:14 12:58",
-		"lat" : 62.41089000000005,
-		"lon" : -140.86909999999995,
+		"CurrentTemperature" : "-7.0 C",
+		"PastTemperatures" : "-8.0     1.0    29.0(1999)  (2014)  (2011)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Paulatuk Airport,Canada",
+		"SnapshotTime" : "2022:11:21 08:45",
+		"lat" : 69.36137100000008,
+		"lon" : -124.07499399999995,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ -140.8691, 62.41089 ]
+			"coordinates" : [ -124.074994, 69.361371 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Fort Good Hope Airport",
+		"Country" : "Canada",
+		"CurrentTemperature" : "-7.0 C",
+		"PastTemperatures" : "-8.0     5.0    33.0(2018)  (2021)  (2017)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Fort Good Hope Airport,Canada",
+		"SnapshotTime" : "2022:11:21 08:45",
+		"lat" : 66.24156100000005,
+		"lon" : -128.64470599999999,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -128.644706, 66.241561 ]
 		}
 	}
 ]
