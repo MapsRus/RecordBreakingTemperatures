@@ -1,36 +1,87 @@
 [
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "McAllen, TX",
-		"Country" : "United States",
-		"CurrentTemperature" : "7.2 C",
-		"PastTemperatures" : "5.6   0    -7.7(1991)  (1992)  (1989)",
-		"TemperatureDifference" : "+1.6",
-		"CityCountry" : "McAllen, TX,United States",
-		"SnapshotTime" : "2022:11:21 08:45",
-		"lat" : 26.207700000000045,
-		"lon" : -98.22930999999994,
+		"City" : "Essaouira",
+		"Country" : "Morocco",
+		"CurrentTemperature" : "27.0 C",
+		"PastTemperatures" : "26.3    34.0    46.0(1995)  (2020)  (2017)",
+		"TemperatureDifference" : "+0.6",
+		"CityCountry" : "Essaouira,Morocco",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 31.51123000000007,
+		"lon" : -9.760519999999929,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ -98.22931, 26.2077 ]
+			"coordinates" : [ -9.76052, 31.51123 ]
 		}
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Saint George, UT",
+		"City" : "Pocatello, ID",
 		"Country" : "United States",
-		"CurrentTemperature" : "0.0 C",
-		"PastTemperatures" : "-1.2    -8.0   -18.0(1993)  (2006)  (2013)",
+		"CurrentTemperature" : "-13.3 C",
+		"PastTemperatures" : "-14.5   -25.6   -36.1(1977)  (1993)  (1985)",
 		"TemperatureDifference" : "+1.2",
-		"CityCountry" : "Saint George, UT,United States",
-		"SnapshotTime" : "2022:11:21 08:45",
-		"lat" : 37.109770000000026,
-		"lon" : -113.58329999999995,
+		"CityCountry" : "Pocatello, ID,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 42.874970000000076,
+		"lon" : -112.45055999999994,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ -113.5833, 37.10977 ]
+			"coordinates" : [ -112.45056, 42.87497 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Sacramento, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "0.0 C",
+		"PastTemperatures" : "-1.5    -3.3    -8.7(1964)  (1993)  (1990)",
+		"TemperatureDifference" : "+1.5",
+		"CityCountry" : "Sacramento, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 38.579440000000034,
+		"lon" : -121.49084999999997,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -121.49085, 38.57944 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Salmon, ID",
+		"Country" : "United States",
+		"CurrentTemperature" : "-17.8 C",
+		"PastTemperatures" : "-18.8   -23.0   -36.0(1977)  (2014)  (1979)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Salmon, ID,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 45.17673000000008,
+		"lon" : -113.89678999999995,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -113.89679, 45.17673 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Stockton, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "-0.6 C",
+		"PastTemperatures" : "-1.7    -3.8    -8.2(1964)  (2015)  (1990)",
+		"TemperatureDifference" : "+1.1",
+		"CityCountry" : "Stockton, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 37.953730000000064,
+		"lon" : -121.29045999999994,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -121.29046, 37.95373 ]
 		}
 	},
 	{
@@ -41,7 +92,7 @@
 		"PastTemperatures" : "5.6   0    -7.2(2000)  (2011)  (2021)",
 		"TemperatureDifference" : "+1.1",
 		"CityCountry" : "Rockport, TX,United States",
-		"SnapshotTime" : "2022:11:21 08:45",
+		"SnapshotTime" : "2022:11:21 08:22",
 		"lat" : 28.027270000000044,
 		"lon" : -97.05483999999996,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
@@ -52,70 +103,121 @@
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Kota Kinabalu",
-		"Country" : "Malaysia",
-		"CurrentTemperature" : "22.0 C",
-		"PastTemperatures" : "21.2    17.2    15.0(2004)  (1999)  (1976)",
-		"TemperatureDifference" : "+0.8",
-		"CityCountry" : "Kota Kinabalu,Malaysia",
-		"SnapshotTime" : "2022:11:21 08:45",
-		"lat" : 5.981390000000033,
-		"lon" : 116.07423000000006,
+		"City" : "McAllen, TX",
+		"Country" : "United States",
+		"CurrentTemperature" : "6.7 C",
+		"PastTemperatures" : "5.6   0    -7.7(1991)  (1992)  (1989)",
+		"TemperatureDifference" : "+1.1",
+		"CityCountry" : "McAllen, TX,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 26.207700000000045,
+		"lon" : -98.22930999999994,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ 116.07423, 5.98139 ]
+			"coordinates" : [ -98.22931, 26.2077 ]
 		}
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Launceston Airport",
-		"Country" : "Australia",
-		"CurrentTemperature" : "4.0 C",
-		"PastTemperatures" : "2.7    -3.0    -5.5(1952)  (1977)  (1994)",
-		"TemperatureDifference" : "+1.3",
-		"CityCountry" : "Launceston Airport,Australia",
-		"SnapshotTime" : "2022:11:21 08:45",
-		"lat" : -41.54364999999996,
-		"lon" : 147.20558000000005,
+		"City" : "Twenty-Nine Palms, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "1.1 C",
+		"PastTemperatures" : "0    -4.3    -8.8(2000)  (2010)  (2007)",
+		"TemperatureDifference" : "+1.1",
+		"CityCountry" : "Twenty-Nine Palms, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 34.13561000000004,
+		"lon" : -116.05460999999997,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ 147.20558, -41.54365 ]
+			"coordinates" : [ -116.05461, 34.13561 ]
 		}
 	},
 	{
 		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Kirkenes Lufthavn",
-		"Country" : "Norway",
-		"CurrentTemperature" : "-10.0 C",
-		"PastTemperatures" : "-17.7    2013   -41.2(29.9000)  (MONTHH)  ()",
-		"TemperatureDifference" : "+7.7",
-		"CityCountry" : "Kirkenes Lufthavn,Norway",
-		"SnapshotTime" : "2022:11:21 08:45",
-		"lat" : 69.72342000000003,
-		"lon" : 29.88990000000007,
-		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 29.8899, 69.72342 ]
-		}
-	},
-	{
-		"json_featuretype" : "TemperatureBreakers",
-		"City" : "Paulatuk Airport",
-		"Country" : "Canada",
-		"CurrentTemperature" : "-7.0 C",
-		"PastTemperatures" : "-8.0     1.0    29.0(1999)  (2014)  (2011)",
+		"City" : "Mountain Home AFB, ID",
+		"Country" : "United States",
+		"CurrentTemperature" : "-12.7 C",
+		"PastTemperatures" : "-13.7   -20.6   -37.5(1985)  (1955)  (1933)",
 		"TemperatureDifference" : "+1.0",
-		"CityCountry" : "Paulatuk Airport,Canada",
-		"SnapshotTime" : "2022:11:21 08:45",
-		"lat" : 69.36137100000008,
-		"lon" : -124.07499399999995,
+		"CityCountry" : "Mountain Home AFB, ID,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 43.05651000000006,
+		"lon" : -115.85600999999997,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
-			"coordinates" : [ -124.074994, 69.361371 ]
+			"coordinates" : [ -115.85601, 43.05651 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Edwards AFB, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "-6.7 C",
+		"PastTemperatures" : "-7.7   -10.6   -17.2(1964)  (1964)  (1994)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Edwards AFB, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 34.91637000000003,
+		"lon" : -117.93534999999997,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -117.93535, 34.91637 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Eduardo Gomes International",
+		"Country" : "Brazil",
+		"CurrentTemperature" : "23.0 C",
+		"PastTemperatures" : "22.0    19.0     9.0(1985)  (1986)  (1991)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Eduardo Gomes International,Brazil",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : -3.0386099999999487,
+		"lon" : -60.04971999999998,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -60.04972, -3.03861 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Aerop. Internacional Monterrey, N. L.",
+		"Country" : "Mexico",
+		"CurrentTemperature" : "7.0 C",
+		"PastTemperatures" : "6.0   0    -7.0(1981)  (2018)  (2021)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Aerop. Internacional Monterrey, N. L.,Mexico",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 25.683850000000064,
+		"lon" : -100.34614999999997,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -100.34615, 25.68385 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Modesto, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "-0.6 C",
+		"PastTemperatures" : "-1.6    -6.0    -7.1(1979)  (1983)  (1990)",
+		"TemperatureDifference" : "+1.0",
+		"CityCountry" : "Modesto, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 37.64155000000005,
+		"lon" : -121.00345999999996,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -121.00346, 37.64155 ]
 		}
 	},
 	{
@@ -126,13 +228,166 @@
 		"PastTemperatures" : "-8.0     5.0    33.0(2018)  (2021)  (2017)",
 		"TemperatureDifference" : "+1.0",
 		"CityCountry" : "Fort Good Hope Airport,Canada",
-		"SnapshotTime" : "2022:11:21 08:45",
+		"SnapshotTime" : "2022:11:21 08:22",
 		"lat" : 66.24156100000005,
 		"lon" : -128.64470599999999,
 		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
 		"json_geometry" : {
 			"type" : "Point",
 			"coordinates" : [ -128.644706, 66.241561 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Ontario, OR",
+		"Country" : "United States",
+		"CurrentTemperature" : "-9.4 C",
+		"PastTemperatures" : "-10.0   -19.3   -28.8(2018)  (2014)  (2017)",
+		"TemperatureDifference" : "+0.6",
+		"CityCountry" : "Ontario, OR,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 44.025690000000054,
+		"lon" : -116.96585999999996,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -116.96586, 44.02569 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Santa Rosa, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "-1.1 C",
+		"PastTemperatures" : "-1.7    -5.0    -8.7(2009)  (2015)  (1990)",
+		"TemperatureDifference" : "+0.6",
+		"CityCountry" : "Santa Rosa, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 38.43807000000004,
+		"lon" : -122.71246999999994,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.71247, 38.43807 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Monterey, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "3.9 C",
+		"PastTemperatures" : "3.2   .6    -5.5(1998)  (1975)  (1990)",
+		"TemperatureDifference" : "+0.7",
+		"CityCountry" : "Monterey, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 36.59820000000008,
+		"lon" : -121.89646999999997,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -121.89647, 36.5982 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Bishop, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "-9.4 C",
+		"PastTemperatures" : "-10.0   -17.7   -22.2(1979)  (1994)  (1988)",
+		"TemperatureDifference" : "+0.6",
+		"CityCountry" : "Bishop, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 37.36680000000007,
+		"lon" : -118.39534999999995,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -118.39535, 37.3668 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Merced / Castle AFB, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "0.0 C",
+		"PastTemperatures" : "-1.1    -3.2    -7.2(1964)  (1994)  (1967)",
+		"TemperatureDifference" : "+1.1",
+		"CityCountry" : "Merced / Castle AFB, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 37.31643500400003,
+		"lon" : -120.49010499399998,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -120.490104994, 37.316435004 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Elko, NV",
+		"Country" : "United States",
+		"CurrentTemperature" : "-16.7 C",
+		"PastTemperatures" : "-17.2   -25.6   -38.8(1961)  (2010)  (1949)",
+		"TemperatureDifference" : "+0.5",
+		"CityCountry" : "Elko, NV,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 40.835680000000025,
+		"lon" : -115.76753999999994,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -115.76754, 40.83568 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Sacramento, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "-0.6 C",
+		"PastTemperatures" : "-1.1    -5.6    -7.7(1985)  (1978)  (1990)",
+		"TemperatureDifference" : "+0.5",
+		"CityCountry" : "Sacramento, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 38.579440000000034,
+		"lon" : -121.49084999999997,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -121.49085, 38.57944 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Kirkenes Lufthavn",
+		"Country" : "Norway",
+		"CurrentTemperature" : "-10.0 C",
+		"PastTemperatures" : "-17.7    2013   -41.2(29.9000)  (MONTHH)  ()",
+		"TemperatureDifference" : "+7.7",
+		"CityCountry" : "Kirkenes Lufthavn,Norway",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 69.72342000000003,
+		"lon" : 29.88990000000007,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 29.8899, 69.72342 ]
+		}
+	},
+	{
+		"json_featuretype" : "TemperatureBreakers",
+		"City" : "Concord, CA",
+		"Country" : "United States",
+		"CurrentTemperature" : "1.1 C",
+		"PastTemperatures" : ".6    -1.7    -5.5(2000)  (2010)  (1990)",
+		"TemperatureDifference" : "+0.5",
+		"CityCountry" : "Concord, CA,United States",
+		"SnapshotTime" : "2022:11:21 08:22",
+		"lat" : 37.98165000000006,
+		"lon" : -122.02582999999998,
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.02583, 37.98165 ]
 		}
 	}
 ]
